@@ -1,0 +1,51 @@
+\babel@toc {brazil}{}
+\contentsline {chapter}{\numberline {1}Conjuntos}{5}%
+\contentsline {section}{\numberline {1.1}Noção de Conjunto}{5}%
+\contentsline {section}{\numberline {1.2}Conjuntos Númericos}{5}%
+\contentsline {subsection}{\numberline {1.2.1}Conjunto dos Números Naturais $\mathbb {N}$}{5}%
+\contentsline {subsection}{\numberline {1.2.2}Conjunto dos Números Inteiros $\mathbb {Z}$}{5}%
+\contentsline {subsection}{\numberline {1.2.3}Conjunto dos Números Racionais $\mathbb {Q}$}{5}%
+\contentsline {subsection}{\numberline {1.2.4}Conjunto dos Números Irracionais $\mathbb {I}$}{6}%
+\contentsline {subsection}{\numberline {1.2.5}Conjunto dos Números Reais $\mathbb {R}$}{6}%
+\contentsline {section}{\numberline {1.3}Intervalos Reais}{6}%
+\contentsline {chapter}{\numberline {2}Funções}{11}%
+\contentsline {section}{\numberline {2.1}Definição de Função}{11}%
+\contentsline {section}{\numberline {2.2}Domínio, Contradomínio e Imagem de uma Função}{13}%
+\contentsline {subsection}{\numberline {2.2.1}Pensando em função}{13}%
+\contentsline {section}{\numberline {2.3}Gráfico de uma função}{14}%
+\contentsline {chapter}{\numberline {3}Algebra}{15}%
+\contentsline {section}{\numberline {3.1}Potênciação}{15}%
+\contentsline {subsection}{\numberline {3.1.1}Potência de Expoente Natural}{15}%
+\contentsline {subsection}{\numberline {3.1.2}Potência de Expoente Inteiro}{16}%
+\contentsline {subsection}{\numberline {3.1.3}Potência de Expoente Racional}{16}%
+\contentsline {subsection}{\numberline {3.1.4}Potência de Expoente Irracional}{17}%
+\contentsline {subsection}{\numberline {3.1.5}Potência de Expoente Real}{17}%
+\contentsline {subsection}{\numberline {3.1.6}Radiciação}{18}%
+\contentsline {section}{\numberline {3.2}Produtos Notáveis}{19}%
+\contentsline {subsection}{\numberline {3.2.1}Quadrado da Soma Entre Dois Termos}{19}%
+\contentsline {subsection}{\numberline {3.2.2}Quadrado da Diferença Entre dois Termos}{20}%
+\contentsline {subsection}{\numberline {3.2.3}Diferença de Quadrados}{20}%
+\contentsline {subsection}{\numberline {3.2.4}Cubo da Soma Entre Dois Termos}{20}%
+\contentsline {subsection}{\numberline {3.2.5}Cubo da Diferença Entre Dois Termos}{20}%
+\contentsline {section}{\numberline {3.3}Técnicas de Fatoração}{20}%
+\contentsline {subsection}{\numberline {3.3.1}Termo em Evidência}{20}%
+\contentsline {subsection}{\numberline {3.3.2}Agrupamento}{21}%
+\contentsline {subsection}{\numberline {3.3.3}Quadrado perfeito}{21}%
+\contentsline {subsection}{\numberline {3.3.4}Diferença de Quadrados}{21}%
+\contentsline {subsection}{\numberline {3.3.5}Soma de Dois Cubos}{21}%
+\contentsline {subsection}{\numberline {3.3.6}Diferença de Dois Cubos}{21}%
+\contentsline {subsection}{\numberline {3.3.7}Fatorações Sucessivas}{21}%
+\contentsline {chapter}{\numberline {4}Geometria Analitica}{23}%
+\contentsline {section}{\numberline {4.1}Noções Iniciais}{23}%
+\contentsline {subsection}{\numberline {4.1.1}Distância Entre Dois Pontos}{23}%
+\contentsline {subsection}{\numberline {4.1.2}Circunferência}{24}%
+\contentsline {chapter}{\numberline {5}Trigonometria}{27}%
+\contentsline {section}{\numberline {5.1}Razões Trigonométricas no Triângulo Retângulo}{27}%
+\contentsline {subsection}{\numberline {5.1.1}Triângulo Retângulo}{27}%
+\contentsline {subsection}{\numberline {5.1.2}Teorema de Pitágoras}{27}%
+\contentsline {subsection}{\numberline {5.1.3}Seno, Cosseno e Tangente}{28}%
+\contentsline {subsubsection}{Seno}{28}%
+\contentsline {subsubsection}{Cosseno}{29}%
+\contentsline {subsubsection}{Tangente}{29}%
+\contentsline {subsection}{\numberline {5.1.4}Relação Fundamental da Trigonometria}{29}%
+\contentsline {subsection}{\numberline {5.1.5}Ângulos Complementares}{29}%
